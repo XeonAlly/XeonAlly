@@ -5,9 +5,13 @@ Xeon Ally Github Page
 
 
 Java -> 마인크래프트 플러그인, 클라이언트 개발
+
 Python -> 디스코드 봇, 웹 사이트 개발
+
 HTML( & CSS) -> 웹 사이트 개발
+
 C# -> PC 어플리케이션, 게임 런처 개발
+
 Js -> 디스코드 봇, 웹 사이트 개발
 
 
