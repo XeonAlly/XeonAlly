@@ -1,2 +1,2 @@
 Xeon Ally Github Page
-![Youtube Channel](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCQZQFhXLVazOPhjv6ka64JQ)]
+![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCQZQFhXLVazOPhjv6ka64JQ)
